@@ -9,20 +9,20 @@
 
 <h1> 3 Practical </h1>
 
-![3 Practical Image](image/3.png)
+![3 Practical Image](img/3.png)
 
 <h1> 4 Practical </h1>
 
-![4 Practical Image](image/4.png)
+![4 Practical Image](img/4.png)
 
 <h1> 5 Practical </h1>
 
-![5 Practical Image](image/5.png)
+![5 Practical Image](img/5.png)
 
 <h1> 6 Practical </h1>
 
-![6 Practical Image](image/6.png)
+![6 Practical Image](img/6.png)
 
 <h1> 7 Practical </h1>
 
-![7 Practical Image](image/7.png)
+![7 Practical Image](img/7.png)
